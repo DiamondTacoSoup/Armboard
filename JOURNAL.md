@@ -49,3 +49,10 @@ I changed the faceplate mounting mechanism from a screw in system to a slide in 
 
   
 
+## 10/29/2025 - Cleaned up ReadME, Added STEP files  
+
+This was a minor edit to make the project ready to ship. It required uploading Images to my ReadME and Adding STEP files to my Repo. I also spent a lot of time reading through the shipping requirements to make sure I met them.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM4NywicHVyIjoiYmxvYl9pZCJ9fQ==--2ff88377531d934154f990a92bed6bb41d59b76c/image.png)
+  
+
