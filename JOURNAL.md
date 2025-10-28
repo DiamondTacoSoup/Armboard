@@ -12,7 +12,7 @@ I didn't realise that I needed to make the journal before the designs so I went 
 
 PCB:
 This project started out as me trying to learn Kicad, I had made some basic circuits but I wanted to try something more challenging and I have had this idea for a while so I started by making a pcb. 
-My design uses a bluepill stm32 microcontroller connected to 12 i2c displays and a dfplayer mini. 
+My design uses a TinyPico stm32 microcontroller connected to 12 i2c displays and a dfplayer mini. 
 The main challenge was that each display only supported two i2c addresses as such I have been made to use an i2c multiplexer and this was cause for much complexity in my design. Other then that the rest of the circuit is fairly straightforward. Attached are the schematics as well as the footprint:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjkxLCJwdXIiOiJibG9iX2lkIn19--739cfc9172a4b39ac198ee4348ca9b7b7061b193/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjkyLCJwdXIiOiJibG9iX2lkIn19--652db23679ba323bab5c38222701a9737559159a/image.png)
