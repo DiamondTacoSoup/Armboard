@@ -16,3 +16,17 @@ The TinyPico does not have enough GPIO pins for each switch to have its own, as 
 The TinyPico communicates to the Displays over I2C. Each display only supports 2 I2C addresses, as such I have had to use an I2C multiplexer to create 6 discrete I2C lines. For this task I have used the TCA9548APWR, a common I2C multiplexer. This takes one I2C line and 3 GPIO pins as input. The I2C lines carry the signal and the GPIO lines select the output using binary where each GPIO represents one digit.
 
 Finally, the sound system consists of a DFplayer mini and a small 0.5w speaker. The DFplayer is a premade mp3 player board, the TinyPico uses a UART connection to select from mp3 files stored on an sd card within the DFplayer. The DFplayer, which incorporates a DAC, amp, and SD card, then outputs that sound signal to the speaker.
+
+# Images
+PCB:
+
+<img width="1069" height="374" alt="image" src="https://github.com/user-attachments/assets/f92577ed-8b56-477e-8a1a-b9140d3c5e58" />
+
+Schematic:
+
+<img width="926" height="519" alt="image" src="https://github.com/user-attachments/assets/cc3fcf6b-2e91-4f67-b697-c6ceb786485a" />
+
+3d Models:
+
+<img width="584" height="413" alt="image" src="https://github.com/user-attachments/assets/ff929104-47d6-4991-bc89-1fdf9856bac5" />
+<img width="652" height="305" alt="image" src="https://github.com/user-attachments/assets/19294d89-660a-43fa-90e7-4c5c68b6e976" />
