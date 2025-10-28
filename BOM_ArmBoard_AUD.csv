@@ -1,0 +1,11 @@
+﻿PCB designation,Name,Quantity,Product number/website,Unit price,total price
+XA1,TinyPico,1,392-TP-N-01, $30.40 , $30.40 
+"R10,R4,R1,R7",3216 Metric 1000Ohm,4,704-MFBW1V3216-152-R, $0.10 , $0.38 
+"R6,R12,R15,R9,R3,R13,R16,R14",3216 Metric 10000Ohm,8,652-CRT1206BY1002ELF, $0.21 , $1.68 
+"R8,R5,R2,R11",3216 Metric 4700Ohm,4,603-RT1206BRD074K7L, $0.19 , $0.74 
+U1,TCA9548APWR,1,595-TCA9548APWR, $3.65 , $3.65 
+U2,Dfplayer mini,1,https://www.aliexpress.com/item/1005001417104130.html?src=google&pdp_npi=4%40dis!AUD!3.07!3.07!!!!!%40!12000016020958443!ppc!!!, $3.06 , $3.06 
+"SW12,SW3,SW1,SW9,SW2,SW8,SW5,SW10,SW6,SW7,SW11,SW4",Cherry ULP SMD switches,12,https://www.reichelt.de/de/en/shop/product/cherry_mx_ultra_low_profile_rgb_-_pushbutton_module-335040, $2.66 , $31.92 
+"D8,D4,D2,D12,D6,D10,D7,D3,D5,D9,D11,D1",Display_0.66in,12,https://www.buydisplay.com/i2c-white-0-66-inch-oled-display-module-64x48-arduino-raspberry-pi, $4.92 , $59.04 
+LS1,Buzzer_12mm (6.5mm hole),1,MT-TH12-0126-RK, $2.30 , $2.30 
+~,Overall cost (excluding shipping),~,~, ~ , $133.18 
