@@ -115,7 +115,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../../../../Downloads/")
+			(outputdirectory "/Users/joshua.eliovson/Downloads/GRB/")
 		)
 	)
 	(net 0 "")
