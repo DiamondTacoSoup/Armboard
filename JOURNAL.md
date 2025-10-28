@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Armboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/133).
-
-
 ## 10/4/2025 - Created pcb, cad, and code.  
 
 I didn't realise that I needed to make the journal before the designs so I went ahead and designed my project pre-journal.
@@ -34,6 +30,22 @@ Code:
 I have gotten chatgpt to make the code. Not that I have gotten it to do everything, more that I have explained in words how I want the code to work and then have let it do the syntax (bc I hate syntax). If this is an issue I can also rewrite the code myself but that would be a pain.
 
 
+
+  
+
+## 10/28/2025 - Added BOM, Edited PCB, Edited 3D printed faceplate  
+
+Firstly I added a BOM that Includes prices and stores, but excludes shipping costs. 
+This mostly contains parts from mouser but also has a few from other suppliers.
+The compilation of the BOM took quite a while.
+
+I made some minor edits to the PCB in which I changed the hole spacing for the speaker to a more standard 6.5mm spacing.
+
+I changed the faceplate mounting mechanism from a screw in system to a slide in system as pictured below.
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--161db14a81b6acae14e5c24c61cc2af10bf77fae/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--d7dafc7d1679e2a65b5ba7c54f87e61454bfa3e0/image.png)
 
   
 
